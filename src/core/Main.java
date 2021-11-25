@@ -69,8 +69,9 @@ public class Main {
                         if (orders.isResetBudget()) {
                             budget = 50000;
                         }
-                        if (orders.isEnoughCondition() && orders.isWin(winRate)) {
+                        if (budget >= products.get(choice - 1).getPrice() && orders.isEnoughCondition() && orders.isWin(winRate)) {
                             System.out.println("You received a free lucky product!");
+                            budget -= products.get(choice - 1).getPrice();
                         }
 
                         System.out.println("Order success!");
