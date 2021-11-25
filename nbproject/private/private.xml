@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/core/Main.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/services/MenuService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/services/ProductService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/utils/MyScanner.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/services/MoneyService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/services/OrderService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/entities/Money.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/entities/Product.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/services/BalanceService.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Momo/VendingConsoleApp/src/entities/Order.java</file>
+        </group>
+    </open-files>
+</project-private>
